@@ -1,4 +1,3 @@
-# Expansão Urbana : Análise Geoespacial com Aprendizado de Máquina em Pouso Alegre - MG (1994-2004)
 # Autores: 
 1. Rodrigo Zonzin (UFSJ)
 2. Cauã Lima (UFPA)
